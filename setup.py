@@ -18,7 +18,7 @@ setup(name='pydap.responses.citation',
     classifiers=[
       # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     ],
-    keywords='citation opendap dods dap data science climate oceanography'    
+    keywords='citation opendap dods dap data science climate oceanography',    
     author='Niklas Griessbaum',
     author_email='griessbaum@ucsb.edu',
     url='https://github.com/NiklasPhabian/pydap.responses.citation',
